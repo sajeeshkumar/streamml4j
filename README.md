@@ -6,12 +6,12 @@
 ## Features (so far)
 - ✅ `NaiveBayesClassifier` (incremental multinomial NB)
 - ✅ `PerceptronClassifier` (Online Linear Classifier)
-
+- ✅ `LogisticRegressionClassifier` (Online Logistic Regression using SGD updates)
 - ✅ Simple metrics (`Accuracy`)
-- ✅ Example demos (`NaiveBayesSpamDemo`,`PerceptronSpamDemo`)
+- ✅ Example demos (`NaiveBayesSpamDemo`,`PerceptronSpamDemo`,`LogisticRegressionSpamDemo`)
 
 ## Roadmap
-- [ ] Logistic Regression (online SGD)
+- [X] Logistic Regression (online SGD)
 - [ ] Hoeffding Trees (VFDT)
 - [ ] Drift detection (ADWIN, DDM)
 - [ ] Feature hashing / sketches
