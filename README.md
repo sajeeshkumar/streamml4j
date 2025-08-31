@@ -5,8 +5,10 @@
 
 ## Features (so far)
 - ✅ `NaiveBayesClassifier` (incremental multinomial NB)
+- ✅ `PerceptronClassifier` (Online Linear Classifier)
+
 - ✅ Simple metrics (`Accuracy`)
-- ✅ Example demos (`NaiveBayesSpamDemo`)
+- ✅ Example demos (`NaiveBayesSpamDemo`,`PerceptronSpamDemo`)
 
 ## Roadmap
 - [ ] Logistic Regression (online SGD)
