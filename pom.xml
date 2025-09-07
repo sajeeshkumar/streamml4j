@@ -7,6 +7,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>streamml4j</name>
+  <modules>
+    <module>core</module>
+    <module>algorithms</module>
+    <module>examples</module>
+  </modules>
 
 
   <properties>
