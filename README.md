@@ -89,4 +89,4 @@ All changes must go through PR review and CI (Maven build).
 
 ## 📜 License
 
-MIT License. See [LICENSE](LICENSE).  
+Apache License. See [LICENSE](LICENSE).  
