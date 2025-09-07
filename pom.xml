@@ -8,12 +8,6 @@
   <packaging>pom</packaging>
   <name>streamml4j</name>
 
-  <modules>
-    <module>core</module>
-    <module>algorithms</module>
-    <module>metrics</module>
-    <module>examples</module>
-  </modules>
 
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
