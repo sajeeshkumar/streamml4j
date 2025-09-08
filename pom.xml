@@ -11,6 +11,7 @@
     <module>core</module>
     <module>algorithms</module>
     <module>examples</module>
+    <module>metrics</module>
   </modules>
 
 
